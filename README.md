@@ -1,2 +1,3 @@
 # MyPortfolioSite
+I'm Student of HTML Academy
 MyPortfolio Site, where I'll place sites that I'll produse as Front-End developer, I guess...
